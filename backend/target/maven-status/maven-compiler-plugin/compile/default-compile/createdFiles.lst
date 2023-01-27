@@ -1,0 +1,11 @@
+dev\socialnetwork\model\ChatMessage$MessageType.class
+dev\socialnetwork\repository\UserRepository.class
+dev\socialnetwork\controller\ChatController.class
+dev\socialnetwork\secuirty\MyUserDetailsService\CustomUserDetailsService.class
+dev\socialnetwork\secuirty\MyUserDetailsService\CustomUserDetails.class
+dev\socialnetwork\entity\Account.class
+dev\socialnetwork\model\ChatMessage.class
+dev\socialnetwork\config\WebSocketConfig.class
+dev\socialnetwork\config\WebSecurityConfig.class
+dev\socialnetwork\controller\AuthController.class
+dev\socialnetwork\SocialNetworkApplication.class
