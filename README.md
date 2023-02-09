@@ -1,8 +1,8 @@
 # social-network
-#backend: 
+**backend**: 
 Spring(Boot, Rest, Data, Security), Hibernate, Jjwt
-#frontend: 
+**frontend**: 
 HTML/CSS, JavaScript, Vue.js, AJAX
 
-#utils: 
+**utils**: 
 PostgreSQL, Docker
